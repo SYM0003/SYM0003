@@ -5,6 +5,7 @@
 - 💞️ I’m looking to collaborate...
 - 📫 How to reach me ...
 -           mail me for any  collaboratin on shyamveramw7@gmail.com
+-           my linkedin profile is https://www.linkedin.com/in/shyam-verma-b61971231/
 -           
 
 <!---
