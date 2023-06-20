@@ -4,8 +4,9 @@
 - 🌱 I’m currently solving DSA alogrithms problems so that i may get the test of the real world problmes.
 - 💞️ I’m looking to collaborate...
 - 📫 How to reach me ...
+-       
 -           mail me for any  collaboratin on shyamveramw7@gmail.com
--           my linkedin profile is https://www.linkedin.com/in/shyam-verma-b61971231/
+-           [LinkedIn](https://www.linkedin.com/in/shyam-verma-b61971231/)
 -           
 
 <!---
