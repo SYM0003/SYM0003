@@ -11,3 +11,6 @@
     <a href="https://www.linkedin.com/in/shyam-verma-b61971231/" target="_blank" rel="noopener noreferrer">
       <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
     </a>
+    <a href="https://www.instagram.com/s_y_m_003/" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.icons8.com/color/48/000000/instagram.png" alt="LinkedIn" />
+    </a>
