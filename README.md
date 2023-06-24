@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SYM0003
+- 👋 Hi, I’m Shyam Verma
 - 👀 I’m interested in  open source projects
 - 👀 I'm adding new skills day by day to stand out myself.
 - 🌱 I’m currently solving DSA algorithms problems to get a taste of real-world problems.
